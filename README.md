@@ -49,6 +49,7 @@
 
 ### Redis
 
+- [Redis缓存穿透，缓存击穿，缓存雪崩原因+解决方案]()
 - [Redis | Redis 开发与运维](./articles/redis/Redis%20开发和运维.md)
 - [Redis | Redis 初级篇](./articles/redis/初级篇.md)
 

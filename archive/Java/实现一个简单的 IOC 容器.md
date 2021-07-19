@@ -2,7 +2,7 @@
 
 这篇文章主要讲一下如何使用 Java 实现一个简单的 IOC 容器，这里该系列的第一篇，要实现的内容的也相对简单，主要介绍一下 B 依赖 A 这种简单的关系是怎么实现的
 
-![image-20210313163204421](/Users/zhangyunan/project/growth/img/ioc_node.png)
+![image-20210313163204421](../../img/ioc_node.png)
 
 
 
@@ -67,7 +67,7 @@ Provider 作为另一种提供依赖的定义（有一种是 @Inject 注解）�
 
 在这里在不考虑 AOP 的情况进行对 `@Inject` 和 `@Singleton` 进行实现，也就是只实现一个单例类型的依赖注入
 
-![image-20210313164955462](/Users/zhangyunan/project/growth/img/ioc_node2.png)
+![image-20210313164955462](../../img/ioc_node2.png)
 
 在这个关系中，`Node` 作为一个单例对象，且不依赖于其他；`NodeB` 作为一个单例对象，并依赖于 `Node` 
 

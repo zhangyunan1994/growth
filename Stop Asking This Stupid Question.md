@@ -1,10 +1,26 @@
 # Stop Asking This Stupid Question
 
-> 本文是在 《Stop Ask Questions The Stupid Ways》 和 《How To Ask Questions The Smart Way》基础上写的，将两个合在了一起，加了一些符合国情的参考，原文的链接将在文章中提供
+请停止问那些弱智的问题 !!!
+
+## 声明
+
+本文是在 《Stop Ask Questions The Stupid Ways》 和 《How To Ask Questions The Smart Way》基础上写的，将两个合在了一起，加了一些符合国情的参考，原文的链接将在文章中提供
 
 
 
 
+
+**How To Ask Questions The Smart Way**
+
+Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
+
+本指南英文版版权为 Eric S. Raymond, Rick Moen 所有。
+
+原文网址：[http://www.catb.org/~esr/faqs/smart-questions.html](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+github 中文翻译地址 [https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
+Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 
 

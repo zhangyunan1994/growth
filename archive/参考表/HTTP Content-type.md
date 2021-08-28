@@ -130,6 +130,39 @@ video/x-ms-wmv：Windows Media Video视频文件
 video/x-flv：Flash Video（FLV档）
 ```
 
+| 文件后缀 | MIME TYPE |
+| ------------------------------------------------------------ | ---- |
+| .doc | application/msword |
+|.dot | application/msword |
+|.docx | application/vnd.openxmlformats-officedocument.wordprocessingml.document |
+| .dotx | application/vnd.openxmlformats-officedocument.wordprocessingml.template |
+|.docm | application/vnd.ms-word.document.macroEnabled.12 |
+| .dotm | application/vnd.ms-word.template.macroEnabled.12 |
+|.xls | application/vnd.ms-excel |
+|.xlt | application/vnd.ms-excel | 
+| .xla | application/vnd.ms-excel | 
+|.xlsx | application/vnd.openxmlformats-officedocument.spreadsheetml.sheet|
+|.xltx | application/vnd.openxmlformats-officedocument.spreadsheetml.template |  
+| .xlsm| application/vnd.ms-excel.sheet.macroEnabled.12 | 
+| .xltm |application/vnd.ms-excel.template.macroEnabled.12 | 
+| .xlam |application/vnd.ms-excel.addin.macroEnabled.12 | 
+| .xlsb |application/vnd.ms-excel.sheet.binary.macroEnabled.12 | 
+| .ppt |application/vnd.ms-powerpoint | 
+| .pot |application/vnd.ms-powerpoint | 
+| .pps |application/vnd.ms-powerpoint | 
+| .ppa |application/vnd.ms-powerpoint | 
+| .pptx |application/vnd.openxmlformats-officedocument.presentationml.presentation | 
+| .potx |application/vnd.openxmlformats-officedocument.presentationml.template | 
+| .ppsx |application/vnd.openxmlformats-officedocument.presentationml.slideshow | 
+| .ppam |application/vnd.ms-powerpoint.addin.macroEnabled.12 |
+| .pptm |application/vnd.ms-powerpoint.presentation.macroEnabled.12 | 
+|.potm |application/vnd.ms-powerpoint.presentation.macroEnabled.12 |
+| .ppsm |application/vnd.ms-powerpoint.slideshow.macroEnabled.12 | 
+|.zip | application/zip | 
+|.tar| application/x-tar |
+
+
+
 # 参考
 
 - https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E5%AA%92%E4%BD%93%E7%B1%BB%E5%9E%8B

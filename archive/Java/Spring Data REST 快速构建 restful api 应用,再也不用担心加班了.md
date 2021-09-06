@@ -1,18 +1,8 @@
 # Spring Data REST 快速构建 restful api 应用
 
-<!-- TOC -->
-- [Spring Data REST 快速构建 restful api 应用](#spring-data-rest-%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA-restful-api-%E5%BA%94%E7%94%A8)
-- [什么是Spring Data REST](#%E4%BB%80%E4%B9%88%E6%98%AFspring-data-rest)
-- [restful api](#restful-api)
-- [实现](#%E5%AE%9E%E7%8E%B0)
-    - [添加依赖](#%E6%B7%BB%E5%8A%A0%E4%BE%9D%E8%B5%96)
-    - [定义domain](#%E5%AE%9A%E4%B9%89domain)
-    - [定义 Repository](#%E5%AE%9A%E4%B9%89-repository)
-    - [配置](#%E9%85%8D%E7%BD%AE)
-    - [测试](#%E6%B5%8B%E8%AF%95)
-- [小功能](#%E5%B0%8F%E5%8A%9F%E8%83%BD)
 
-<!-- /TOC -->
+
+[TOC]
 
 # 什么是Spring Data REST
 
